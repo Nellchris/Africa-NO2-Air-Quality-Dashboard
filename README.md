@@ -1,3 +1,5 @@
+**Link to the project on Streamlit:** https://africa-no2-air-quality-dashboard.streamlit.app/
+
 # 🌍 NO₂ Air Quality Dashboard (2018–2024)
 
 This project presents an interactive dashboard that visualizes **Nitrogen Dioxide (NO₂)** levels across Africa using **Sentinel-5P** satellite data. It provides insights into air quality trends over selected years and highlights regions with increasing or decreasing NO₂ concentrations.
